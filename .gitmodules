@@ -1,0 +1,3 @@
+[submodule "Employee-Management"]
+	path = Employee-Management
+	url = https://github.com/wesg09/Employee-Management.git
